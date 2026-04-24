@@ -2,7 +2,7 @@
 
 # FL Production 25.2.5: Professional Digital Audio Workstation Resource
 
-[![Stars](https://img.shields.io/github/stars/MentalPrism42/FL-Production-25.2.5-DAW)](https://github.com/MentalPrism42/FL-Production-25.2.5-DAW) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/MentalPrism42/FL-Production-25.2.5-DAW)](https://github.com/MentalPrism42/FL-Production-25.2.5-DAW) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 **FL Production 25.2.5 DAW** is a high-performance integrated environment for professional music production, recording, and sound design. This 2026 optimized build features a complete suite of AI-driven tools, an advanced piano roll, and a high-fidelity low-latency audio engine. Engineered for modern Windows systems, it provides a robust platform for beatmaking, complex orchestration, and professional-grade mixing and mastering.
 Unlock your creative potential with the latest automation features, stems separation technology, and an expansive library of professional plugins and virtual instruments.
